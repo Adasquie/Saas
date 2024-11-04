@@ -1,0 +1,2 @@
+from .embeddings import obtenir_embedding_texte, rechercher_similaires, indexer_par_phrases
+from .historique import sauvegarder_historique, charger_historique, add_message_to_history, rechercher_contexte_historique
